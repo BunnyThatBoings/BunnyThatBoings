@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BunnyThatBoings
 - 👀 I’m interested in bunnies
-- 🌱 I’m currently learning ¯\\-(ツ)-/¯
+- 🌱 I’m currently learning to code in Dart
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me @bunnyboing on discord
 - 😄 Pronouns: she/her
