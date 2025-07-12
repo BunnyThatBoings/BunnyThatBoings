@@ -2,7 +2,7 @@
 - 👀 I’m interested in bunnies
 - 🌱 I’m currently learning to code in assembly, c#. & dart
 - 💞️ I’m looking to collaborate on... look out for the future...
-- 📫 How to reach me @bunnyboing on discord
+- 📫 How to reach me @circularcyclone on discord
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like bunnies
 - 💻 I can code in (in order from best to worst):
